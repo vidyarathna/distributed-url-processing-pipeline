@@ -35,7 +35,7 @@ This creates issues:
 
 ## 💡 Solution Approach
 
-We implemented a **queue-based asynchronous architecture** where:
+I implemented a **queue-based asynchronous architecture** where:
 
 * API only accepts requests
 * Jobs are pushed into a queue
